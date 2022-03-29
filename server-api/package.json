@@ -1,0 +1,30 @@
+{
+  "name": "server-api",
+  "version": "1.0.0",
+  "description": "E-commerce Server-Api",
+  "main": "v1/src/app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/umutdag1/final-project"
+  },
+  "author": "Umut Dag",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "cors": "~2.8.5",
+    "dotenv": "~16.0.0",
+    "express": "~4.17.3",
+    "helmet": "~5.0.2",
+    "http-status": "~1.5.0",
+    "pg": "~8.7.3",
+    "pg-hstore": "~2.3.4",
+    "sequelize": "~6.17.0",
+    "winston": "~3.6.0"
+  }
+}

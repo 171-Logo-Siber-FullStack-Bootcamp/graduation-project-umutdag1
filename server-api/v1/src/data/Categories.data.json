@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Woman",
+    "image_url": "http://localhost:3001/static/images/categories/woman.jpg",
+    "status_id": 1
+  },
+  {
+    "name": "Man",
+    "image_url": "http://localhost:3001/static/images/categories/man.jpg",
+    "status_id": 1
+  },
+  {
+    "name": "Child",
+    "image_url": "http://localhost:3001/static/images/categories/child.jpg",
+    "status_id": 1
+  },
+  {
+    "name": "Home & Furniture",
+    "image_url": "http://localhost:3001/static/images/categories/furniture.jpg",
+    "status_id": 1
+  },
+  {
+    "name": "Supermarket",
+    "image_url": "http://localhost:3001/static/images/categories/supermarket.jpg",
+    "status_id": 1
+  },
+  {
+    "name": "Cosmetic",
+    "image_url": "http://localhost:3001/static/images/categories/cosmetic.jpg",
+    "status_id": 1
+  },
+  {
+    "name": "Shoe & Bag",
+    "image_url": "http://localhost:3001/static/images/categories/shoe_bag.jpg",
+    "status_id": 1
+  },
+  {
+    "name": "Watch & Accessory",
+    "image_url": "http://localhost:3001/static/images/categories/watch_accessory.jpg",
+    "status_id": 1
+  },
+  {
+    "name": "Electronic",
+    "image_url": "http://localhost:3001/static/images/categories/electronic.jpg",
+    "status_id": 1
+  },
+  {
+    "name": "Sport & Outdoor",
+    "image_url": "http://localhost:3001/static/images/categories/sport_outdoor.jpg",
+    "status_id": 1
+  }
+]

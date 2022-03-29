@@ -1,0 +1,239 @@
+{
+  level: 'error',
+  message: 'Data is not found',
+  service: 'user-service',
+  timestamp: '3/29/2022, 3:44:26 PM'
+}
+{
+  level: 'error',
+  message: 'Data is not found',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:58:34 PM'
+}
+{
+  level: 'error',
+  message: 'Data is already exist',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:59:09 PM'
+}
+{
+  level: 'error',
+  message: 'Data is not found',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:12:51 PM'
+}
+{
+  level: 'error',
+  message: undefined,
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:16:32 PM'
+}
+{
+  level: 'error',
+  message: 'Data is not found',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:17:11 PM'
+}
+{
+  level: 'error',
+  message: 'Data is not found',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:17:49 PM'
+}
+{
+  level: 'error',
+  message: 'Data is not found',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:18:51 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:43:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:37:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:25:06 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is already exist
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:23:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async create (F:\final-project\server\v1\src\controllers\Users.controller.js:17:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:29:14 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is already exist
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:23:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async create (F:\final-project\server\v1\src\controllers\Users.controller.js:17:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:29:53 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is already exist
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:24:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async create (F:\final-project\server\v1\src\controllers\Users.controller.js:18:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:30:51 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is already exist
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:24:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async create (F:\final-project\server\v1\src\controllers\Users.controller.js:18:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:30:52 PM'
+}
+{
+  level: 'error',
+  message: Error: payload is required
+      at Object.module.exports [as sign] (F:\final-project\server\node_modules\jsonwebtoken\sign.js:111:20)
+      at generateAccessToken (F:\final-project\server\v1\src\helpers\token-generation.helper.js:4:16)
+      at login (F:\final-project\server\v1\src\controllers\Users.controller.js:53:35)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:31:49 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:39 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:40 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:40 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:41 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:42 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:42 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:42 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is already exist
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:24:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async create (F:\final-project\server\v1\src\controllers\Users.controller.js:18:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:47 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is already exist
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:24:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async create (F:\final-project\server\v1\src\controllers\Users.controller.js:18:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:47 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is already exist
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:24:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async create (F:\final-project\server\v1\src\controllers\Users.controller.js:18:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:48 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is already exist
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:24:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async create (F:\final-project\server\v1\src\controllers\Users.controller.js:18:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:48 PM'
+}
+{
+  level: 'error',
+  message: Error: payload is required
+      at Object.module.exports [as sign] (F:\final-project\server\node_modules\jsonwebtoken\sign.js:111:20)
+      at generateAccessToken (F:\final-project\server\v1\src\helpers\token-generation.helper.js:4:16)
+      at login (F:\final-project\server\v1\src\controllers\Users.controller.js:53:35)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:39:23 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 7:35:48 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 8:31:14 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 11:39:42 PM'
+}

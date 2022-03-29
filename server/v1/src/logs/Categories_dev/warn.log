@@ -1,0 +1,45 @@
+{
+  level: 'error',
+  message: Error
+      at F:\final-project\server\v1\src\controllers\Categories.controller.js:21:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async getAll (F:\final-project\server\v1\src\controllers\Categories.controller.js:15:36),
+  service: 'category-service',
+  timestamp: '3/29/2022, 8:25:40 PM'
+}
+{
+  level: 'error',
+  message: Error
+      at F:\final-project\server\v1\src\controllers\Categories.controller.js:21:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async getAll (F:\final-project\server\v1\src\controllers\Categories.controller.js:15:36),
+  service: 'category-service',
+  timestamp: '3/29/2022, 8:28:54 PM'
+}
+{
+  level: 'error',
+  message: Error
+      at F:\final-project\server\v1\src\controllers\Categories.controller.js:21:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async getAll (F:\final-project\server\v1\src\controllers\Categories.controller.js:15:36),
+  service: 'category-service',
+  timestamp: '3/29/2022, 8:29:53 PM'
+}
+{
+  level: 'error',
+  message: Error
+      at F:\final-project\server\v1\src\controllers\Categories.controller.js:21:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async getAll (F:\final-project\server\v1\src\controllers\Categories.controller.js:15:36),
+  service: 'category-service',
+  timestamp: '3/29/2022, 8:30:57 PM'
+}
+{
+  level: 'error',
+  message: Error
+      at F:\final-project\server\v1\src\controllers\Categories.controller.js:21:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async getAll (F:\final-project\server\v1\src\controllers\Categories.controller.js:15:36),
+  service: 'category-service',
+  timestamp: '3/29/2022, 8:31:22 PM'
+}

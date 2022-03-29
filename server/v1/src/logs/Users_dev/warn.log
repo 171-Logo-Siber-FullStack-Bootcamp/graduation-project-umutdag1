@@ -1,0 +1,1019 @@
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/ZMTGZKOETxe_c_prk_3jKA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 3:40:42 PM'
+}
+{
+  level: 'error',
+  message: 'Data is not found',
+  service: 'user-service',
+  timestamp: '3/29/2022, 3:44:26 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/LfxBq-HgRaCGTA5rDfcCLA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:16:26 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/LfxBq-HgRaCGTA5rDfcCLA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:17:00 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/AnXdev5tQ12jYGCL9dCsCQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:22:25 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/G3mliReaTom9nM-zer5wfA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:22:38 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/Pn2g37V4TdaisJ8ASwxz_Q] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:22:45 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/nQ5bw-3USz2W5_l5ZbOXig] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:22:57 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/w8a-BsKfTF6J2_kiPOE5wQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:23:08 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/dnAfcnhHRA6rpYR_ue0sig] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:23:24 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/NachLfgHRB2FYF2wm1EdlQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:23:49 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/bY6Xmi1YRg6hBPdLR7nn7w] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:23:58 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/YJWhlH5fTxWK0F6B5rNu0Q] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:24:13 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/kaEqDZx7RSWh30fqOvOZAg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:36:42 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/6HvqZnczTbeBrZDIhgNzCg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:36:50 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/RH2PaKf6RuW2nECvGxlXfA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:36:59 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/oVsew8loRJWhxuY9OD8Xlw] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:37:09 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/ZWFYl6uCRS6_AYJZCo-8ZQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:38:48 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/e0BB5kAeQYuyl-DlhCIB-A] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:39:02 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/ZfKMJ7X4RNabc2oJPHKLEA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:39:07 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/EyQfY93TSMuS6I-EmssbmQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:39:11 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/2zdumwW2S82wTpmH8VVtFQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:39:17 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/_Ecixm5_TJSz9H6qZrXAQQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:39:28 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/OFjGZ-8sSB-zl0YIkcgLMg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:39:50 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/0T0j-U_ySx2b9z36V6i0uA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:40:30 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/qS3WCOE4TBajjCBgDsTrMQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:40:40 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/0mags4laTF-iKjBm7Fnbaw] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:42:13 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/AC80aHdnQievRza25gqb2Q] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:43:03 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/88KIQl3iThWi5OMO_oAi3Q] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:43:09 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/2I2UsMY7RhSIiTykaBBOKg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:43:45 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/twC8fMkfQruJaTvRq4KjbA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:44:06 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/-nOW_-DyShCSKlEqBs5NMA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:44:12 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/JXf18b_8RTC6UhhFT0bj2A] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:44:21 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/jQEM28VARH6GCXNqLNERsw] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:45:18 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/jESE72UzSoiC2jw7zpoc4g] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:45:35 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/eaKzTzv7QHSztwVaokQY7g] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:46:17 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/1yT_SRPOSAC1K4nuuo88Lg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:46:54 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/RrkqzfIEQ8KeJvHhgfdz8g] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:49:18 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/6Ck6S0K5Txa_Jg9u7W6hqA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:58:29 PM'
+}
+{
+  level: 'error',
+  message: 'Data is not found',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:58:34 PM'
+}
+{
+  level: 'error',
+  message: 'Data is already exist',
+  service: 'user-service',
+  timestamp: '3/29/2022, 5:59:09 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/QG6bLTbtSfO8vgbt0xlFWA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:00:55 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/2p4GUBGiQHK1bKmUC78Erw] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:06:54 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/TrcSpxm1S0C5arodMINrmw] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:07:44 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/bgn18zIyRuajTYYRoL2T8A] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:11:22 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/2X5cuhZWTza9kBteBri4cA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:12:39 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/v4qOEku2QlaYaIEvl3KsnQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:12:47 PM'
+}
+{
+  level: 'error',
+  message: 'Data is not found',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:12:51 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/uVxeQkdZTFCSMksni4ZwAQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:14:19 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/AzVcRL0gQBSrIOESbUT5IQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:16:09 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/7A9ZiC8tQLS3E5RvAdudXg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:16:22 PM'
+}
+{
+  level: 'error',
+  message: undefined,
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:16:32 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/dPMApO4uS_S4VDP4Pg1QLg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:16:57 PM'
+}
+{
+  level: 'error',
+  message: 'Data is not found',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:17:11 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/5ySuQHWGSsyWiukaEtrwkQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:17:42 PM'
+}
+{
+  level: 'error',
+  message: 'Data is not found',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:17:49 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/-8OitLtpQ8Wv7fHNRfrbKg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:18:48 PM'
+}
+{
+  level: 'error',
+  message: 'Data is not found',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:18:51 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/kbMYDNMlRCKJJTq_3o_1vw] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:25:04 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:43:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:37:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:25:06 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/_7Vx_2R_T6akUx_H9RcAGQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:28:04 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/ur6auGT2RXONv8ryTJgvlw] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:28:32 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/-lCYHoDPRX-d5ZRXIb4bzQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:29:06 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is already exist
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:23:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async create (F:\final-project\server\v1\src\controllers\Users.controller.js:17:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:29:14 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/AB5Yn22xTtKJ1JWbqW7wow] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:29:50 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is already exist
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:23:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async create (F:\final-project\server\v1\src\controllers\Users.controller.js:17:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:29:53 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/PqXwNBvBTW2PMYi23ydJuQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:30:45 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is already exist
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:24:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async create (F:\final-project\server\v1\src\controllers\Users.controller.js:18:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:30:51 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is already exist
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:24:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async create (F:\final-project\server\v1\src\controllers\Users.controller.js:18:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:30:52 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/J0_xPZIRT82y2BIOqvCLiw] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:31:46 PM'
+}
+{
+  level: 'error',
+  message: Error: payload is required
+      at Object.module.exports [as sign] (F:\final-project\server\node_modules\jsonwebtoken\sign.js:111:20)
+      at generateAccessToken (F:\final-project\server\v1\src\helpers\token-generation.helper.js:4:16)
+      at login (F:\final-project\server\v1\src\controllers\Users.controller.js:53:35)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:31:49 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/b3DaYnaASH6KDvwBCgFQag] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:32:02 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/2MG-zE_3SVSUI-R46zsH5g] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:03 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/2MG-zE_3SVSUI-R46zsH5g] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:34 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:39 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:40 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:40 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:41 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:42 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:42 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:42 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is already exist
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:24:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async create (F:\final-project\server\v1\src\controllers\Users.controller.js:18:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:47 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is already exist
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:24:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async create (F:\final-project\server\v1\src\controllers\Users.controller.js:18:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:47 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is already exist
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:24:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async create (F:\final-project\server\v1\src\controllers\Users.controller.js:18:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:48 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is already exist
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:24:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async create (F:\final-project\server\v1\src\controllers\Users.controller.js:18:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:33:48 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/6d1-P32OSqGuHdIcM5DSkQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:36:35 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/4ZUbcQUXQ_CcG_m--CnTFA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:39:21 PM'
+}
+{
+  level: 'error',
+  message: Error: payload is required
+      at Object.module.exports [as sign] (F:\final-project\server\node_modules\jsonwebtoken\sign.js:111:20)
+      at generateAccessToken (F:\final-project\server\v1\src\helpers\token-generation.helper.js:4:16)
+      at login (F:\final-project\server\v1\src\controllers\Users.controller.js:53:35)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5),
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:39:23 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/845uK8hyQMKdCUaZdFKKGA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:39:32 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/MzELQHN8RXeKLfhkVj8Y-g] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:41:38 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/gs_I33geT2SOMiPsd17SQg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:41:50 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/dYWxsMvfRMmXBUeGlfBQEA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:41:59 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/k4c5GgKgR8aMYR2qoJGjoQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:42:11 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/7jNwhxClRh6cZzXhtc86_Q] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:42:27 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/r0nVbAfIT7ysDIP9qKC3Rw] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:42:37 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/nIFCUhMARI25dejNEyW09g] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:42:39 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/KzMu7EgER_KLEryfurvG2w] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:43:23 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/YK0tpCi8SFW9dKK165WV2Q] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:43:28 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/Rxc9XCtxTLOuUwWce8X2oA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:43:33 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/UmNoLIOgSdSn6E10erjsYw] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:43:38 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/B3rJl5duSb2ZeJaMI-Bjcw] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:43:42 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/wjK6CffaTrSsp5IuShKVeg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:43:48 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/dgSYwCGbTt-s0TFC01nXhg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:43:52 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/WLcMnSdlQjKmuXyNxjujJA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:44:04 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/58O4k5UbRoOi1YWvL0jCDg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:44:14 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/rG_M-8VNSQm5Ni8c7s496g] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:44:35 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/DrMb9k7GTsOgZabfse2hpg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:44:47 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/O9GKA8ePS--AuaqqSA4dTw] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:45:18 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/tclyW1TFSxe2C2GKI98EGg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:45:33 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/lxaEa4XYSLSbu3auT9V5zA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:45:50 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/G-9xhQqYQlm-qCHDImcW7Q] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:46:04 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/bPskb5OzQdmw9XF_UqeJ0g] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:46:08 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/zS6puRRcR76nS03_GS1dAA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:46:17 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/AbxBgjTYTkyYMBXDnZ9YDQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:47:46 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/hu9wR_LKSByx7nhGQwFY2g] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:47:53 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/fJdhSxuHRaCqbNffLEDoXw] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:48:09 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/LuHlbOIqTPiXfJuRGQiXaw] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:48:20 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/JI-5VKF1T2G5hLx-jH9L7Q] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:48:27 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/DLbpTuS5SRuFnCQVQf1SGQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:48:35 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/UN9hCTpISOuk--QtSFtoXw] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:48:39 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/fc3bbbAwTReb3jYwMrtkSQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:49:10 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/64MnKSoCSmypzqlIJf0RFg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:49:26 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/Zl9nSZa6QHuQUTPKI64r8A] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:50:09 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/GHZjcTXGStq9Lqu3Ex-Nng] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:50:59 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/01ijHrPfRV-nyvxZ2OVPEg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:51:49 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/XNqNhOq7SC-2I_a9KMJLjQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:52:09 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/vRUsiQGQSmKtWv2dttlxHg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 6:57:59 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/yQJPCsKYSWS5ErAK_qQO7w] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 7:02:43 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/lrRQchi4TZug088uw8yAGw] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 7:03:00 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/LorXalbWRxiNMKb6hmzILA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 7:09:33 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/erIYmd2TRU2-wLq3RYA5Vg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 7:11:29 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/rGMid7ErT16xr1laUwKX4A] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 7:15:50 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/2mbJj1pLS1K7ufw2_Dn-sA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 7:18:04 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/wF0OM3HoQm6SHI0UTL0rYQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 7:19:01 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/DQVrxi4TRvGDDS5rtD4GYg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 7:19:55 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/oXx_cFKGSu2BEI97Ydm1Mw] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 7:21:27 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 7:35:48 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/-J0wC1bKQZOERbSIcvCr9A] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 7:37:52 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/qKun_zmxRH2iAQQlHU3Apg] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 7:38:44 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/BNk8lbVASSOxdnAFM2tPhQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 7:56:58 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/hblVPcUPS2y9kdYf4Zo7AA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 7:57:07 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/J5OBbMzGRpyBOBV6ZfWKfA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 7:57:19 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/F0Pz9J0wT9682QGuGLoVPQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 8:00:55 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/F0Pz9J0wT9682QGuGLoVPQ] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 8:10:22 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/cj1sKEdbT1O5Z6-N4NgyXA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 8:15:29 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/cj1sKEdbT1O5Z6-N4NgyXA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 8:15:58 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/cj1sKEdbT1O5Z6-N4NgyXA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 8:16:55 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/cj1sKEdbT1O5Z6-N4NgyXA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 8:22:32 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/cj1sKEdbT1O5Z6-N4NgyXA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 8:24:01 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/cj1sKEdbT1O5Z6-N4NgyXA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 8:24:08 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/cj1sKEdbT1O5Z6-N4NgyXA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 8:25:09 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 8:31:14 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/cj1sKEdbT1O5Z6-N4NgyXA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 8:32:43 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/cj1sKEdbT1O5Z6-N4NgyXA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 9:50:54 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/cj1sKEdbT1O5Z6-N4NgyXA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 9:53:16 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/cj1sKEdbT1O5Z6-N4NgyXA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 9:54:35 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/cj1sKEdbT1O5Z6-N4NgyXA] already exists',
+  service: 'user-service',
+  timestamp: '3/29/2022, 10:21:00 PM'
+}
+{
+  level: 'error',
+  message: Error: Data is not found
+      at F:\final-project\server\v1\src\controllers\Users.controller.js:48:38
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at async login (F:\final-project\server\v1\src\controllers\Users.controller.js:42:36),
+  service: 'user-service',
+  timestamp: '3/29/2022, 11:39:42 PM'
+}
+{
+  level: 'warn',
+  message: 'resource_already_exists_exception: [resource_already_exists_exception] Reason: index [products/cj1sKEdbT1O5Z6-N4NgyXA] already exists',
+  service: 'user-service',
+  timestamp: '3/30/2022, 12:16:14 AM'
+}

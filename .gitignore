@@ -1,0 +1,41 @@
+*.pdf
+*.zip
+/product
+/sign-in
+/checkout
+/elasticsearch-7.17.1
+/kibana-7.17.1-windows-x86_64
+
+# Node JS - Server
+/server/node_modules
+/server/.idea
+
+# Node JS - Server-Api
+/server-api/node_modules
+/server-api/.idea
+
+# Vue JS
+/client/.DS_Store
+/client/node_modules
+/client/dist
+
+
+# local env files
+/client/.env.local
+/client/.env.*.local
+
+# Log files
+/client/npm-debug.log*
+/client/yarn-debug.log*
+/client/yarn-error.log*
+/client/pnpm-debug.log*
+
+# Editor directories and files
+/client/.idea
+/client/.vscode
+/client/*.suo
+/client/*.ntvs*
+/client/*.njsproj
+/client/*.sln
+/client/*.sw?
+
